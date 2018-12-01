@@ -29,7 +29,7 @@ https://github.com/yunjey/pytorch-tutorial
 
 
 
-### Dependencies
+## Dependencies
 My environment is Google Colab
 
 Python 3.6 
