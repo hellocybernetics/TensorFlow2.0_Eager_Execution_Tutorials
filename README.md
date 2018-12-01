@@ -8,7 +8,7 @@ https://github.com/yunjey/pytorch-tutorial
 
 ## Table of Contents
 ### 1. Basics
-* TF_Eager Basics
+* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/tree/master/tutorials/01_basics)
 * Linear Regression
 * Logistic Regression
 * Feedforward Neural Network
