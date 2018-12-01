@@ -8,13 +8,13 @@ https://github.com/yunjey/pytorch-tutorial
 
 ## Table of Contents
 ### 1. Basics
-* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/tree/master/tutorials/01_basics)
-* Linear Regression
-* Logistic Regression
+* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb)
+* [Linear Regression](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/linear_regression.ipynb)
+* [Logistic Regression](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/logistic_regression.ipynb)
 * Feedforward Neural Network
 
 ### 2. Intermediate
-* Convolutional Neural Network
+* [Convolutional Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02-intermediate/Convolutinal_Neural_Network_using_KerasAPI.ipynb)
 * Deep Residual Network
 * Recurrent Neural Network
 * Bidirectional Recurrent Neural Network
