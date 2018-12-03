@@ -19,7 +19,7 @@ https://github.com/yunjey/pytorch-tutorial
 ### 2. Intermediate
 * [Convolutional Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02-intermediate/Convolutinal_Neural_Network_using_KerasAPI.ipynb)
 * Deep Residual Network
-* Recurrent Neural Network
+* [Recurrent Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Recurrent_Neural_Network.ipynb)
 * Bidirectional Recurrent Neural Network
 * Language Model (RNN-LM)
 
