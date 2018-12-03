@@ -7,6 +7,9 @@ https://github.com/yunjey/pytorch-tutorial
 
 
 ## Table of Contents
+### 0. Low Level TensorFlow
+* Eager and Static
+
 ### 1. Basics
 * [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb)
 * [Linear Regression](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/linear_regression.ipynb)
