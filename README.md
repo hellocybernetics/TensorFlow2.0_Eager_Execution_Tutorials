@@ -7,11 +7,11 @@ https://github.com/yunjey/pytorch-tutorial
 
 
 ## Table of Contents
-### 0. Low Level TensorFlow
-* Eager and Static
+### 0. Low Level
+* [Using_tf.Variable](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/00_lowlevel/LinearModel_using_tf_Variable.ipynb)
+* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb)
 
 ### 1. Basics
-* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb)
 * [Linear Regression](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/linear_regression.ipynb)
 * [Logistic Regression](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/logistic_regression.ipynb)
 * [Feedforward Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/feed_forward_neural_network.ipynb)
