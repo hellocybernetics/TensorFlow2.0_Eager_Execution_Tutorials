@@ -29,8 +29,8 @@ https://github.com/yunjey/pytorch-tutorial
 * Neural Style Transfer
 * Image Captioning (CNN-RNN)
 
-
-
+### X.Others
+* [Hyper Parameter Optmization](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/99_others/hyper_parameter_optimization_using_optuna.ipynb)
 
 ## Dependencies
 My environment is Google Colab
