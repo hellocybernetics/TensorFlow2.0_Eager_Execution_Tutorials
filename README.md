@@ -9,7 +9,9 @@ https://github.com/yunjey/pytorch-tutorial
 ## Table of Contents
 ### 0. Low Level
 * [Using_tf.Variable](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/00_lowlevel/LinearModel_using_tf_Variable.ipynb)
-* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb)
+* [TF_Eager Basics](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/TF_eager_basics.ipynb) 
+
+* [eager_vs_graph](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/00_lowlevel/eager_vs_graph.ipynb)
 
 ### 1. Basics
 * [KerasAPI Sequential_and_Model](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/Sequential_and_Model.ipynb)
