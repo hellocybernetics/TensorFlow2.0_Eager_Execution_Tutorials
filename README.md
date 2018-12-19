@@ -20,10 +20,11 @@ https://github.com/yunjey/pytorch-tutorial
 * [Feedforward Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/01_basics/feed_forward_neural_network.ipynb)
 
 ### 2. Intermediate
-* [Convolutional Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Convolutinal_Neural_Network_using_KerasAPI.ipynb)
-* [Deep Residual Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_interimediate/residual_network.ipynb)
-* [Recurrent Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Recurrent_Neural_Network.ipynb)
-* [Bidirectional Recurrent Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Bidrectional_Recurrent_Neural_Network.ipynb)
+* [Convolutional Neural Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Convolutinal_Neural_Network.ipynb)
+* [Convolutional Neural Network using Keras API](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Convolutinal_Neural_Network_using_KerasAPI.ipynb)
+* [Deep Residual Network using Keras API](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_interimediate/residual_network.ipynb)
+* [Recurrent Neural Network using Keras API](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Recurrent_Neural_Network.ipynb)
+* [Bidirectional Recurrent Neural Network using Keras API](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/02_intermediate/Bidrectional_Recurrent_Neural_Network.ipynb)
 * Language Model (RNN-LM)
 
 ### 3. Advanced
