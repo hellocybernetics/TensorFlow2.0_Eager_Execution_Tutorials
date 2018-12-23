@@ -1,6 +1,6 @@
 # TensorFlow_Eager_Execution_Tutorials
 
-This repository provides tutorial code for deep learning researchers to learn TensorFlow Eager Execution. This tutorials refer to the PyTorch tutorials 
+This repository provides tutorial code of TensorFlow2.0 . This tutorials refer to the PyTorch tutorials 
 
 https://github.com/yunjey/pytorch-tutorial
 
@@ -44,5 +44,5 @@ My environment is Google Colab
 
 Python 3.6 
 
-TensorFlow 1.12.0
+TensorFlow2.0 preview version
 
