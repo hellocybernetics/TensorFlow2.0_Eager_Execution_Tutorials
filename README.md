@@ -1,6 +1,6 @@
 # TensorFlow_Eager_Execution_Tutorials
 
-This repository provides tutorial code for deep learning researchers to learn TensorFlow Eager Execution. This tutorials refer to the PyTorch tutorials 
+This repository provides tutorial code for deep learning researchers to learn TensorFlow Eager Execution (TF ver1.12.0) . This tutorials refer to the PyTorch tutorials 
 
 https://github.com/yunjey/pytorch-tutorial
 
