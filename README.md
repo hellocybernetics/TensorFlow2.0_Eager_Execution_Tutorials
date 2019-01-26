@@ -30,6 +30,7 @@ https://github.com/yunjey/pytorch-tutorial
 ### 3. Advanced
 * [Generative Adversarial Network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/03_advanced/Generative_Adversarial_Network.ipynb)
 * [Variational Auto-Encoder](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/03_advanced/Variational_Auto_Encoder.ipynb)
+* [Graph Convolution](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/03_advanced/graph_convnet.ipynb)
 * Neural Style Transfer
 * Image Captioning (CNN-RNN)
 
