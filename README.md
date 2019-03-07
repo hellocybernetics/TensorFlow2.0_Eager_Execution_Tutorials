@@ -1,4 +1,4 @@
-# TensorFlow_Eager_Execution_Tutorials
+# TensorFlow2.0_Eager_Execution_Tutorials
 
 This repository provides tutorial code of TensorFlow2.0 . This tutorials refer to the PyTorch tutorials 
 
