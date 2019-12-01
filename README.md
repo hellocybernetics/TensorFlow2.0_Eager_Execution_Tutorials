@@ -34,6 +34,11 @@ https://github.com/yunjey/pytorch-tutorial
 * Neural Style Transfer
 * Image Captioning (CNN-RNN)
 
+### 4. Probability
+* [MCMC Regression with JointDistribution](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials/blob/master/tutorials/04_probability/Regiression_with_tfd.JointDistributionCoroutine.ipynb)
+* [Variational Regression with JointDistribution](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials/blob/master/tutorials/04_probability/VariationalRegression_JointDistribution.ipynb)
+* [basic modeling with tfp.layers](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials/blob/master/tutorials/04_probability/probabilistic_model_by_tfp_layers.ipynb)
+
 ### X. Others
 * [Hyper Parameter Optmization](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/99_others/hyper_parameter_optimization_using_optuna.ipynb)
 * [eager vs pytorch speed](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/99_others/Eager_vs_PyTorch_speed.ipynb)
@@ -41,9 +46,10 @@ https://github.com/yunjey/pytorch-tutorial
 * [dropout bayes neural network](https://github.com/hellocybernetics/TensorFlow_Eager_Execution_Tutorials/blob/master/tutorials/99_others/dropout_bayes.ipynb)
 
 ## Dependencies
-My environment is Google Colab
+My environment is Google Colab or
 
-Python 3.6 
+Python 3.7
 
-TensorFlow2.0 preview version
+TensorFlow 2.0
+TensorFlow Probability 0.9.0 (nightly)
 
